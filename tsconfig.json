@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "removeComments": false,
+    "jsx": "react",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "pretty": true,
+    "experimentalDecorators": true
+  },
+  "awesomeTypescriptLoaderOptions": {
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
